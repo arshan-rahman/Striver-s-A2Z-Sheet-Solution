@@ -56,4 +56,5 @@ int main(){
         cout<<(searchMatrix(mat,target) ? "Found" : "Not Found"); //terniary operation
         return 0;
     }
+
 }
